@@ -2,7 +2,7 @@
 A git hub with odd bits of data science code
 
 ## About me
-![Headshot](./assets/images/IMG_0304a_crop.jpg)
+![Headshot](./blob/assets/IMG_0304a_crop.JPG)
 Welcome to my git! I am a structural engineer with an interest in data analytics and data science.
 
 ## About this git
@@ -14,4 +14,4 @@ My git has some _very_ experimental repositories with various bits of code. It w
 - [x] upload first public repository
 - [ ] build out repositories over time with meaningful code on various topics
 
-Thanks to the staff of @HyperionDev-com for their support during the Data Science bootcamp including setup of this git.
+Thanks to the staff of @hyperiondev-com for their support during the Data Science bootcamp including setup of this git.
