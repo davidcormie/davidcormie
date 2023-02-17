@@ -3,6 +3,7 @@ A git hub with odd bits of data science code
 
 ## About me
 ![Headshot](../assets/IMG_0304a_crop.JPG)
+
 Welcome to my git! I am a structural engineer with an interest in data analytics and data science.
 
 ## About this git
